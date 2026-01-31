@@ -33,5 +33,12 @@ through dynamic charts, percentages and target achievements.
 - Pivot & calculation sheets
 - Final interactive dashboard
 
+
+📸 Dashboard Preview
+### Income Sources
+![Income Sources](Income%20Sources.png)
+### Geographical Analysis
+![Geography](Geographically.png)
+
 👤 Created By
 Aashish Yadav
